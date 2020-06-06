@@ -2,3 +2,5 @@ Hi! I'm Bob. I'm new here.
 Add some text here for master branch
 Add a conflict on bob branch
 Add a cherry-pick change on bob branch
+Part 1 to squash
+Part 2 to squash
