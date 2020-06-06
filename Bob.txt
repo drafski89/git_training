@@ -1,3 +1,4 @@
 Hi! I'm Bob. I'm new here.
 Add some text here for master branch
 Add a conflict on master branch
+Add a conflict on bob branch
